@@ -1,0 +1,6 @@
+{
+    "name": "about_weather",
+    "entities": [
+        "rrel_entity:rrel_entity"
+    ]
+}

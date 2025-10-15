@@ -1,0 +1,54 @@
+{
+    "name": "rrel_color",
+    "roles": [
+        "rrel_color"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "#123",
+            "synonyms": [
+                "#123"
+            ]
+        },
+        {
+            "keyword": "#123456",
+            "synonyms": [
+                "#123456"
+            ]
+        },
+        {
+            "keyword": "#92E918",
+            "synonyms": [
+                "#92e918"
+            ]
+        },
+        {
+            "keyword": "#FF23A9",
+            "synonyms": [
+                "#ff23a9"
+            ]
+        },
+        {
+            "keyword": "#ff0033",
+            "synonyms": [
+                "#ff0033"
+            ]
+        },
+        {
+            "keyword": "#fff",
+            "synonyms": [
+                "#fff"
+            ]
+        },
+        {
+            "keyword": "#ffffee",
+            "synonyms": [
+                "#ffffee"
+            ]
+        }
+    ]
+}
