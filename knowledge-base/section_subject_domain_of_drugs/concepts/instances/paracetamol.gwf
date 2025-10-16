@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/perm/general" idtf="" shapeColor="193" id="98078454785952" parent="0" x="132.328" y="394.209" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[парацетамол]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078453474528" parent="0" x="-101.643" y="562.252" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Препарат Парацетамол относится к анилидам и обладает обезболивающим и жаропонижающим эффектом. ]]></content>
+        </node>
+        <node type="node/const/perm/group" idtf="taking_the_drug" shapeColor="0" id="98078452808464" parent="0" left="0" top="0" right="107.375" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="798.034" y="300.401" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_taking_the_drug" shapeColor="0" id="98078454120064" parent="0" left="0" top="0" right="136.703" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="711.382" y="408.13" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_indications_for_use" shapeColor="0" id="98078459204880" parent="0" left="0" top="0" right="154.859" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="11.7693" y="712.396" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_definition" shapeColor="0" id="98078445199856" parent="0" left="0" top="0" right="97.3125" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="304.479" y="643.011" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_price" shapeColor="0" id="98078454009680" parent="0" left="0" top="0" right="67.8906" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="176.231" y="520.206" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_name" shapeColor="0" id="98078452843696" parent="0" left="0" top="0" right="71.875" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="175.373" y="435.075" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_dosage" shapeColor="0" id="98078452824672" parent="0" left="0" top="0" right="81.4531" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="173.246" y="346.635" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_quantity" shapeColor="0" id="98078459144896" parent="0" left="0" top="0" right="90.7031" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="173.246" y="268.276" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_conditions_for_dispensing" shapeColor="0" id="98078466223552" parent="0" left="0" top="0" right="195.75" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="588.3" y="240.88" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="for_special" shapeColor="0" id="98078451633888" parent="0" left="0" top="0" right="74.9063" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="893.814" y="119.588" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="for_adult" shapeColor="0" id="98078451666416" parent="0" left="0" top="0" right="64.5625" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="949.369" y="272.674" haveBus="false" idtf_pos="5">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="what_way" shapeColor="0" id="98078451409552" parent="0" left="0" top="0" right="70" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1152.58" y="639.175" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="for_teen" shapeColor="0" id="98078459221216" parent="0" left="0" top="0" right="58.7344" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1115.46" y="490.722" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="how_long" shapeColor="0" id="98078456840016" parent="0" left="0" top="0" right="65.6094" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="959.794" y="646.392" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="for_child" shapeColor="0" id="98078453647024" parent="0" left="0" top="0" right="61.6406" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="888.55" y="513.74" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_contraindications" shapeColor="0" id="98078459359168" parent="0" left="0" top="0" right="145.313" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="590.522" y="515.291" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_possible_adverse_reactions" shapeColor="0" id="98078451935536" parent="0" left="0" top="0" right="203.344" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="567.191" y="643.963" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078452386960" parent="0" x="44.7199" y="909.012" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Парацетамол показан к применению у взрослых и детей с 6 лет как препарат симптоматической терапии в качестве анальгетика умеренной силы и жаропонижающего препарата при большинстве болевых синдромов и лихорадочных состояний: 
+при головной боли (включая мигрень и головные боли напряжения), зубной боли, боли в горле, боли в пояснице, мышечных болях, ревматической боли (нетяжелые артриты), болезненных менструациях; 
+при повышенной температуре тела на фоне «простудных» заболеваний и гриппа.
+Если улучшение не наступило или Вы чувствуете ухудшение, необходимо обратиться к врачу. ]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078458332848" parent="0" x="706.403" y="1323.7" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Если у Вас имеются следующие состояния, пожалуйста, проконсультируйтесь с врачом или работником аптеки:
+доброкачественные гипербилирубинемии (в т.ч. синдромом Жильбера);
+дефицит глюкозо-6-фосфатдегидрогеназы;
+почечная и/или печеночная недостаточности;
+вирусный гепатит;
+дефицит глутатиона вследствие расстройства пищевого поведения, кистозного фиброза, ВИЧ-инфекции, голодания, истощения;
+артрит с более чем умеренной степенью тяжести с регулярным применением обезболивающих препаратов;
+алкогольное поражение печени;
+пожилой возраст;
+период беременности и кормления грудью.
+Приём препарата Парацетамол может влиять на лабораторные показатели. Во время лечения парацетамолом возможно повышение уровня глюкозы в плазме крови и искажение результатов определения гликемического профиля, а также показателей мочевой кислоты.
+Прекратите приём препарата Парацетамол в случае развития аллергической реакции и незамедлительно обратитесь к врачу.
+При появлении симптомов нарушения функции со стороны печени (слабость, появление боли и тяжести в правом подреберье, тошнота, рвота, желтуха, зуд кожи, повышение температуры тела) необходимо незамедлительно обратиться за медицинской помощью.
+Препарат Парацетамол показан к применению у детей с 6 лет.
+Приём алкоголя во время лечения препаратом Парацетамол может привести к токсическому поражению печени и развитию панкреатита. Употребление алкоголя во время лечения запрещено. 
+
+]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078458537984" parent="0" x="1218.56" y="873.196" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Интервал между приёмами должен составлять не менее 4 часов. Не следует принимать препарат чаще, чем каждые 4 часа и более 4 раз в сутки. Не следует продолжать приём более 3 дней без консультации врача.]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078457112928" parent="0" x="1564.95" y="704.124" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Препарат Парацетамол следует принимать внутрь, запивая небольшим количеством воды.]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078466145696" parent="0" x="1519.42" y="315.621" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Детям в возрасте 6-12 лет доза парацетамола рассчитывается в зависимости от возраста и массы тела. Разовая доза составляет 10-15 мг/кг массы тела, максимальная суточная доза 60 мг/кг массы тела. Как правило, рекомендуемая доза для детей - ½-l таблетка по 500 мг 3-4 раза в день по мере необходимости]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078466077040" parent="0" x="1668.04" y="515.464" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[2 таблетки по 200 мг или 1 таблетка по 500 мг каждые 4-6 часов при необходимости. Интервал между приёмами должен составлять не менее 4 часов. Максимальная суточная доза парацетамола для подростков не должна превышать 4 г.
+
+]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078459232720" parent="0" x="1385.36" y="130.66" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Рекомендуемая доза для взрослых: 2 таблетки по 200 мг или 1 таблетка по 500 мг каждые 4-6 часов при необходимости. Максимальная суточная доза парацетамола для взрослых не должна превышать 4 г.]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078451681888" parent="0" x="1220.62" y="-22.6804" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Для пациентов пожилого возраста или  с нарушением функции почек или печени максимальная суточная доза не должна превышать 2,5 г в сутки для предупреждения развития нежелательных реакций.
+
+]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078447415808" parent="0" x="786.127" y="828.525" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Не принимайте препарат Парацетамол: 
+если у Вас аллергия на парацетамол или любые другие компоненты препарата, перечисленные в разделе «Состав» листка-вкладыша; 
+если у Вас возраст до 6 лет.]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078453083696" parent="0" x="650.272" y="166.242" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Без рецепта. ]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078446305504" parent="0" x="151.187" y="225.172" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[20 шт.]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078453501840" parent="0" x="140.425" y="481.396" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[2,07 - 2,42 р.]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="98078445914096" parent="0" x="152.187" y="311.739" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[500 мг]]></content>
+        </node>
+        <node type="node/const/perm/group" idtf="paracetamol" shapeColor="0" id="98078446375264" parent="0" left="0" top="0" right="87.125" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="405.434" y="392.239" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="concept_pills" shapeColor="0" id="98078456474896" parent="0" left="0" top="0" right="86.9063" bottom="26" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="381.679" y="130.791" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078466335120" parent="0" id_b="98078454120064" id_e="98078466044944" b_x="711.382" b_y="408.13" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.6644">
+            <points>
+                <point x="705.691" y="360.163"/>
+            </points>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078466334144" parent="0" id_b="98078456840016" id_e="98078456593728" b_x="959.794" b_y="646.392" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.669962">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078452944272" parent="0" id_b="98078456474896" id_e="98078446375264" b_x="381.679" b_y="130.791" e_x="405.434" e_y="392.239" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078466044944" parent="0" id_b="98078446375264" id_e="98078452808464" b_x="405.434" b_y="392.239" e_x="798.034" e_y="300.401" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078452977344" parent="0" id_b="98078446375264" id_e="98078453474528" b_x="405.434" b_y="392.239" e_x="-101.643" e_y="562.252" dotBBalance="0" dotEBalance="0">
+            <points>
+                <point x="282.343" y="583.164"/>
+            </points>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078452976304" parent="0" id_b="98078459204880" id_e="98078452805520" b_x="11.7693" b_y="712.396" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.717494">
+            <points>
+                <point x="168.029" y="631.625"/>
+            </points>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078452975200" parent="0" id_b="98078446375264" id_e="98078447415808" b_x="405.434" b_y="392.239" e_x="786.127" e_y="828.525" dotBBalance="0" dotEBalance="0">
+            <points>
+                <point x="534.328" y="478.466"/>
+            </points>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078458549024" parent="0" id_b="98078452808464" id_e="98078457112928" b_x="798.034" b_y="300.401" e_x="1564.95" e_y="704.124" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078458548048" parent="0" id_b="98078451409552" id_e="98078458549024" b_x="1152.58" b_y="639.175" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.580628">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078458547008" parent="0" id_b="98078459221216" id_e="98078456594704" b_x="1115.46" b_y="490.722" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.672306">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078456594704" parent="0" id_b="98078452808464" id_e="98078466077040" b_x="798.034" b_y="300.401" e_x="1668.04" e_y="515.464" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078456593728" parent="0" id_b="98078452808464" id_e="98078458537984" b_x="798.034" b_y="300.401" e_x="1218.56" e_y="873.196" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078456592816" parent="0" id_b="98078452808464" id_e="98078451681888" b_x="798.034" b_y="300.401" e_x="1220.62" e_y="-22.6804" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078452806496" parent="0" id_b="98078451633888" id_e="98078456592816" b_x="893.814" b_y="119.588" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.74748">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078452805520" parent="0" id_b="98078446375264" id_e="98078452386960" b_x="405.434" b_y="392.239" e_x="44.7199" e_y="909.012" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078452804608" parent="0" id_b="98078452808464" id_e="98078466145696" b_x="798.034" b_y="300.401" e_x="1519.42" e_y="315.621" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078447481168" parent="0" id_b="98078453647024" id_e="98078452804608" b_x="888.55" b_y="513.74" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.533708">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078447480256" parent="0" id_b="98078452808464" id_e="98078459232720" b_x="798.034" b_y="300.401" e_x="1385.36" e_y="130.66" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078447479168" parent="0" id_b="98078451666416" id_e="98078447480256" b_x="949.369" b_y="272.674" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.362517">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078451029216" parent="0" id_b="98078446375264" id_e="98078454785952" b_x="405.434" b_y="392.239" e_x="132.328" e_y="394.209" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078451028176" parent="0" id_b="98078452824672" id_e="98078451027232" b_x="173.246" b_y="346.635" e_x="0" e_y="0" dotBBalance="0" dotEBalance="1.3347">
+            <points>
+                <point x="247.015" y="344.776"/>
+            </points>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078451027232" parent="0" id_b="98078446375264" id_e="98078445914096" b_x="405.434" b_y="392.239" e_x="152.187" e_y="311.739" dotBBalance="0" dotEBalance="0">
+            <points>
+                <point x="277.612" y="309.701"/>
+            </points>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078456712528" parent="0" id_b="98078446375264" id_e="98078453501840" b_x="405.434" b_y="392.239" e_x="140.425" e_y="481.396" dotBBalance="0" dotEBalance="0">
+            <points>
+                <point x="277.612" y="479.851"/>
+            </points>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078456711488" parent="0" id_b="98078454009680" id_e="98078456712528" b_x="176.231" b_y="520.206" e_x="0" e_y="0" dotBBalance="0" dotEBalance="1.34063">
+            <points>
+                <point x="247.015" y="518.657"/>
+            </points>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078466457632" parent="0" id_b="98078459144896" id_e="98078452266240" b_x="173.246" b_y="268.276" e_x="0" e_y="0" dotBBalance="0" dotEBalance="1.14426">
+            <points>
+                <point x="258.209" y="266.418"/>
+            </points>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078452266240" parent="0" id_b="98078446375264" id_e="98078446305504" b_x="405.434" b_y="392.239" e_x="151.187" e_y="225.172" dotBBalance="0" dotEBalance="0">
+            <points>
+                <point x="269.403" y="223.134"/>
+            </points>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078447412160" parent="0" id_b="98078446375264" id_e="98078458332848" b_x="405.434" b_y="392.239" e_x="706.403" e_y="1323.7" dotBBalance="0" dotEBalance="0">
+            <points>
+                <point x="475.373" y="564.925"/>
+            </points>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="98078458716112" parent="0" id_b="98078446375264" id_e="98078453083696" b_x="405.434" b_y="392.239" e_x="650.272" e_y="166.242" dotBBalance="0" dotEBalance="0">
+            <points>
+                <point x="461.94" y="223.134"/>
+            </points>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078453305904" parent="0" id_b="98078466223552" id_e="98078458716112" b_x="588.3" b_y="240.88" e_x="0" e_y="0" dotBBalance="0" dotEBalance="1.46032">
+            <points>
+                <point x="516.418" y="267.164"/>
+            </points>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078453663408" parent="0" id_b="98078459359168" id_e="98078452975200" b_x="590.522" b_y="515.291" e_x="0" e_y="0" dotBBalance="0" dotEBalance="1.01661">
+            <points>
+                <point x="534.328" y="515.672"/>
+            </points>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078449406624" parent="0" id_b="98078451935536" id_e="98078447412160" b_x="567.191" b_y="643.963" e_x="0" e_y="0" dotBBalance="0" dotEBalance="1.53037">
+            <points>
+                <point x="532.09" y="602.239"/>
+            </points>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078451033488" parent="0" id_b="98078452843696" id_e="98078451029216" b_x="175.373" b_y="435.075" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.543806">
+            <points>
+                <point x="279.104" y="435.075"/>
+            </points>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="98078452388592" parent="0" id_b="98078445199856" id_e="98078452977344" b_x="304.479" b_y="643.011" e_x="0" e_y="0" dotBBalance="0" dotEBalance="1.09065">
+            <points>
+                <point x="277" y="634"/>
+            </points>
+        </pair>
+    </staticSector>
+</GWF>
