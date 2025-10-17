@@ -27,6 +27,7 @@ subject_domain_of_drugs
    nrel_definition;
    nrel_price;
    nrel_name;
+   nrel_main_idtf;
    nrel_quantity;
    nrel_dosage;
    nrel_conditions_for_dispensing;
