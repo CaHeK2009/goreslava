@@ -53,13 +53,13 @@
             <content type="0" mime_type="" content_visibility="false" file_name=""/>
         </node>
         <node type="node/const/perm/general" idtf="" shapeColor="0" id="39686400" parent="0" x="2038" y="212" haveBus="false" idtf_pos="0">
-            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Визуальный интерфейс Nika]]></content>
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Визуальный интерфейс GORESLAVA]]></content>
         </node>
-        <node type="node/const/perm/general" idtf="nika_visual_interface" shapeColor="0" id="39668512" parent="0" left="0" top="0" right="124.188" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="1087.98" y="273.611" haveBus="false" idtf_pos="0">
+        <node type="node/const/perm/general" idtf="goreslava_visual_interface" shapeColor="0" id="39668512" parent="0" left="0" top="0" right="124.188" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="1087.98" y="273.611" haveBus="false" idtf_pos="0">
             <content type="0" mime_type="" content_visibility="false" file_name=""/>
         </node>
         <node type="node/const/perm/general" idtf="" shapeColor="0" id="39663840" parent="0" x="2030" y="267" haveBus="false" idtf_pos="0">
-            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Nika visual interface ]]></content>
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[GORESLAVA visual interface ]]></content>
         </node>
         <node type="node/const/perm/group" idtf="lang_en" shapeColor="0" id="39646720" parent="0" left="0" top="0" right="51.3125" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="2143" y="268" haveBus="false" idtf_pos="0">
             <content type="0" mime_type="" content_visibility="false" file_name=""/>
@@ -79,7 +79,7 @@
         <node type="node/const/perm/general" idtf="" shapeColor="0" id="39548416" parent="0" x="2457" y="263" haveBus="false" idtf_pos="0">
             <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Copyright Information Display Panel]]></content>
         </node>
-        <node type="node/const/perm/general" idtf="nika_visual_interface" shapeColor="0" id="39562944" parent="0" left="0" top="0" right="124.188" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="1847.5" y="139.5" haveBus="true" idtf_pos="0">
+        <node type="node/const/perm/general" idtf="goreslava_visual_interface" shapeColor="0" id="39562944" parent="0" left="0" top="0" right="124.188" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="1847.5" y="139.5" haveBus="true" idtf_pos="0">
             <content type="0" mime_type="" content_visibility="false" file_name=""/>
         </node>
         <node type="node/const/perm/group" idtf="lang_ru" shapeColor="0" id="39416432" parent="0" left="0" top="0" right="50.5938" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="2137.35" y="436.411" haveBus="false" idtf_pos="0">
@@ -367,7 +367,7 @@
         <node type="node/const/perm/relation" idtf="nrel_decomposition" shapeColor="0" id="38016080" parent="0" left="0" top="0" right="113.375" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="1153.73" y="526.273" haveBus="false" idtf_pos="3">
             <content type="0" mime_type="" content_visibility="false" file_name=""/>
         </node>
-        <node type="node/const/perm/general" idtf="nika" shapeColor="0" id="37989552" parent="0" left="0" top="0" right="31.8281" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="865.82" y="275.637" haveBus="false" idtf_pos="0">
+        <node type="node/const/perm/general" idtf="goreslava" shapeColor="0" id="37989552" parent="0" left="0" top="0" right="31.8281" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="865.82" y="275.637" haveBus="false" idtf_pos="0">
             <content type="0" mime_type="" content_visibility="false" file_name=""/>
         </node>
         <node type="node/const/perm/group" idtf="concept_window" shapeColor="0" id="37179632" parent="0" left="0" top="0" right="96.7656" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="1140.3" y="183.676" haveBus="false" idtf_pos="3">

@@ -39,7 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Find entity by identifiers relation set, not only main idtf
 - Common rule to answer "На что декомпозируется ...?" with any formalized entity
 - Common rule to answer "Что такое ...?" with any formalized entity
-- Rule to answer "Что умеет Ника?"
+- Rule to answer "Что умеет Гореслава?"
 - Phrase pattern to get all entities from set $...{_set}
 - Pattern to design knowledge base
 - Alternative message classification agent using logic rules

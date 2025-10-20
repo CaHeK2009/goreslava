@@ -1,7 +1,7 @@
 section_subject_domain_actions_and_tasks
 => nrel_main_idtf:
-    [Раздел. Предметная область действий и задач системы Ника] (* <- lang_ru;; *);
-    [Section. Subject domain of actions and task of Nika system] (* <- lang_en;; *);
+    [Раздел. Предметная область действий и задач системы Гореслава] (* <- lang_ru;; *);
+    [Section. Subject domain of actions and task of Goreslava system] (* <- lang_en;; *);
 <- sc_node_class;
 <- atomic_section;;
 

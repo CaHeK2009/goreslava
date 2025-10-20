@@ -20,7 +20,7 @@ subject_domain_of_drugs
    concept_capsules;
    concept_powder;
     paracetamol;
-    karsil;
+    karsil_pills;
     gippolek;
 
 -> rrel_explored_relation:
