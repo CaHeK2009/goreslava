@@ -5,12 +5,12 @@ export const About = () => {
         <div className="about-page-container">
             <div className="about-page">
                 <h1 className="about-page-text" style={{textAlign: "justify", marginLeft: "100px", marginRight: "100px"}}>
-                    Обучающая диалоговая экспертная система <b>NIKA</b> (<b>N</b>ika is an <b>I</b>ntelligent <b>K</b>nowledge-driven <b>A</b>ssistant),
+                    Обучающая диалоговая экспертная система <b>GORESLAVA</b> (<b>G</b>oreslava is an intelligent kn<b>O</b>wl<b>RE</b>dge-<b>S</b>riven <b>LA</b>ssist<b>VA</b>nt),
                     разработанный на основе технологии{' '}
                         <a href="http://ims.ostis.net/" className="text">
                           OSTIS
                         </a>
-                    . Обучающая диалоговая экспертная ostis-система NIKA полностью заменяет участие Обучающей
+                    . Обучающая диалоговая экспертная ostis-система GORESLAVA полностью заменяет участие Обучающей
                     диалоговой экспертной системы ЭКО в образовательном процессе по обучению студентов
                     специальностей Белорусского государственного университета информатики и радиоэлектроники
                     интеллектуальным экспертным системам. Новый вариант реализации системы такого класса позволяет
@@ -24,7 +24,7 @@ export const About = () => {
                         <a href="https://sem.systems/" className="text">
                           Intelligent Semantic Systems LLC
                         </a>
-                    , Все права защищены.{' '}
+                    , Все права отсуствуют.{' '}
                 </h1>
             </div>
         </div>
