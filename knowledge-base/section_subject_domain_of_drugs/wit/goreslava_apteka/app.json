@@ -1,7 +1,0 @@
-{
-    "version": 20200513,
-    "zip-command": "zip goreslava_apteka.zip goreslava_apteka\/app.json goreslava_apteka\/entities\/*.json goreslava_apteka\/intents\/*.json goreslava_apteka\/traits\/*.json goreslava_apteka\/utterances\/*.json goreslava_apteka\/composer\/*.json",
-    "name": "goreslava_apteka",
-    "lang": "ru",
-    "timezone": "Europe\/Minsk"
-}

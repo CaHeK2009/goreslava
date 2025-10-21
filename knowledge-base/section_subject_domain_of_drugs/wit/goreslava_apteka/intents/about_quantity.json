@@ -1,7 +1,0 @@
-{
-    "name": "about_quantity",
-    "entities": [
-        "rrel_concept:rrel_concept",
-        "rrel_entity:rrel_entity"
-    ]
-}
